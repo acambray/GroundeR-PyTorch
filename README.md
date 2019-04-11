@@ -7,7 +7,7 @@ The task is to localize what region of the image, a phrase is referring to. For 
 
 ## Requisites
 Python 3.6  
-\- Framework: PyTorch 1.0.1
+\- Framework: PyTorch 1.0.1  
 \- torchvision  
 \- Numpy  
 \- PIL  
