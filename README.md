@@ -3,7 +3,7 @@
 
 This is a PyTorch implementation of the supervised and unsupervised GroundeR model from [Grounding of Textual Phrases in Images by Reconstruction](https://arxiv.org/pdf/1511.03745.pdf).
 
-The task is to localize what region of the image, a phrase is referring to. For example, if we have a description "**A man** is jumping over **a fence**" we would like to ground both entities to specific regions of the image. The task of phrase localization or phrase grounding is useful for image captioning and for multi-modal neural machine translation.
+The task is to localize what region of the image, a phrase is referring to. For example, if we have a description "**A man** is jumping over **a fence**" we would like to ground both entities to specific regions of the image. The task of phrase localization or phrase grounding is useful for problems which depend on these unknown mappings between entities and regions such as image captioning and for multi-modal neural machine translation.
 
 ## Requisites
 Python 3.6  
