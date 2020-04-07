@@ -1,5 +1,6 @@
 # GroundeR PyTorch Implementation
->*This project is still in development, and so the below description and documentation is also.*
+>*Note: This project is functional yet unpolished for release, and so the below description and documentation is also. No more work is expected in the near future.
+It is uploaded in the hopes that it is useful for you in its current form.*
 
 This is a PyTorch implementation of the supervised and unsupervised GroundeR model from [Grounding of Textual Phrases in Images by Reconstruction](https://arxiv.org/pdf/1511.03745.pdf).
 
